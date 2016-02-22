@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["about-me","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,contribut:0,index:1,modul:1,mutahir:0,openstack:0,openzf:0,page:1,programm:0,search:1,sysadmin:0},titles:["All about me","Welcome to TechnicalTunes&#8217;s documentation!"],titleterms:{about:0,all:0,document:1,indic:1,tabl:1,technicaltun:1,welcom:1}})
