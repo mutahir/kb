@@ -14,6 +14,8 @@ Contents:
    about-me
    nutanix-ce
    markdown
+   ccie-dc
+   osx
 
 
 
